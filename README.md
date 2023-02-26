@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ZhaoRui@ZR0528
-- 👀 I’m interested in Reading
-- 🌱 I’m currently learning JavaScript, Vue
-- 💞️ I’m looking to collaborate on Web pages
-- 📫 How to reach me 2560528886@qq.com
+- 👋 Hi, I’m ZhaoRui@ZR0528.
+- 🎒 I'm majoring in Computer Science and Technology at HZAU.
+- 🐟 My MBTI is INFP, and willing to do philanthropy.
+- 📚 I’m currently learning more details of JavaScript, React, TypeScript.
+- 📫 This is my e-mail: 2560528886@qq.com.
 
 <!---
 ZR0528/ZR0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
